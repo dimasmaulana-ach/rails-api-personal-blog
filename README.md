@@ -1,24 +1,23 @@
-# README
+# RAILS RESTFUL API FOR PERSONAL BLOG
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+project rails for restful api and using postgresql database
 
-Things you may want to cover:
+## Route
+<img src="https://github.com/dimasmaulana-ach/rails-api-personal-blog/blob/main/assets/route.png" />
 
-* Ruby version
+## Database
+This project using postgresql database
+<img src="https://github.com/dimasmaulana-ach/rails-api-personal-blog/blob/main/assets/db.png" />
 
-* System dependencies
+## Ruby on Rails Version
+* Ruby version => "3.0.5"
+* Rails version => "7.0.6"
 
-* Configuration
+## Dependency
+* rack-cors ~> 2.0
+* bcrypt ~> 3.1
+* jwt ~> 2.7
+* dotenv-rails ~> 2.8
+* encrypted_cookie_store ~> 0.2.0
+* active_model_serializers ~> 0.10.13
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
