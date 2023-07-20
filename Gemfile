@@ -53,5 +53,3 @@ gem "jwt", "~> 2.7"
 gem "dotenv-rails", "~> 2.8"
 gem "encrypted_cookie_store", "~> 0.2.0"
 gem "active_model_serializers", "~> 0.10.13"
-
-gem "friendly_id", "~> 5.5"
